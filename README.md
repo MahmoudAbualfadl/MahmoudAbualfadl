@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Esam Abualfadl</h1>
-<h3 align="center">👀 I am interested in Software Engineering , machine learning , and Robotics.</h3>
+<h3 align="center">👀 I am interested in Robotics  and machine learning .</h3>
 
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
